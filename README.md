@@ -62,14 +62,6 @@ The dashboard provides insights into sales performance, profitability, customer 
   - Payment Mode
   - Region & City
   - Order Date
-
-*(Sample dataset / anonymized business data used for learning and analysis)*
-
----
-
-## 📸 Dashboard Preview
-![Dashboard Screenshot](Screenshot.png)
-
 ---
 
 ## 🚀 Insights Gained
